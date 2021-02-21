@@ -24,7 +24,7 @@ def Thebyshev() :
     ------------
 
     return:
-    TChebyshev_distance : (tuple)
+    Tchebyshev_distance : (tuple)
     version :
     ---------
     spécification : Frédéric Sauvage (v1. 21/02/21)
@@ -47,7 +47,7 @@ def ant_attack (TChebyshev_distance,dico_2) :
     """
     parameters : 
     ------------
-    TChebyshev_distance : take position x,y(tuple)
+    Tchebyshev_distance : take position x,y(tuple)
     dico_2 : take the first element in dico_2(int)
 
     return:
