@@ -18,5 +18,42 @@ def colour_code_map(dico2, list_position_earth):
 
     return allowed_or_not
 
+def Thebyshev() :
+    """
+    parameters :
+    ------------
 
+    return:
+    TChebyshev_distance : (tuple)
+    version :
+    ---------
+    spécification : Frédéric Sauvage (v1. 21/02/21)
+    """
+def Thebyshev_distance(list_1,Chebyshev) :
+    """
+    parameters :
+    ------------
+    list_1 : take the prayer and the second element of the list_1 (int)
+    Tchebyshev : take position x,y(tuple)
+
+    return :
+    posibility_attack : the ants can attack or not (bool)
+    spécification : Frédéric Sauvage (v1. 21/02/21)
+    version :
+    ---------
+    spécification : Frédéric Sauvage (v1. 21/02/21)
+    """
+def ant_attack (TChebyshev_distance,dico_2) :
+    """
+    parameters : 
+    ------------
+    TChebyshev_distance : take position x,y(tuple)
+    dico_2 : take the first element in dico_2(int)
+
+    return:
+    dico_2 : replace second value in liste for eash ant life point less attack (int)
+    version :
+    ---------
+    spécification : Frédéric Sauvage, Julien Emegenbirn (v1. 21/02/21)
+    """
    
